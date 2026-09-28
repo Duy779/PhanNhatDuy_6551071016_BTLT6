@@ -1,0 +1,32 @@
+E:\lapTrinhTrucQuan\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.exe
+E:\lapTrinhTrucQuan\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.deps.json
+E:\lapTrinhTrucQuan\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.runtimeconfig.json
+E:\lapTrinhTrucQuan\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.dll
+E:\lapTrinhTrucQuan\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.pdb
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.dll
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\refint\BaiTapChuong5.dll
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.pdb
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\ref\BaiTapChuong5.dll
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.exe
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.deps.json
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.runtimeconfig.json
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.dll
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.pdb
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.FormDanhBa.resources
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.FormLauncher.resources
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.csproj.GenerateResource.cache
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.AssemblyInfoInputs.cache
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.AssemblyInfo.cs
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.csproj.CoreCompileInputs.cache
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.dll
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\refint\BaiTapChuong5.dll
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.pdb
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.genruntimeconfig.cache
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\ref\BaiTapChuong5.dll
+C:\Users\PHAN NHAT DUY\Downloads\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapCh.04330079.Up2Date
